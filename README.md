@@ -1,4 +1,14 @@
 # Dexdos
+
+<img width="691" height="273" alt="image" src="https://github.com/user-attachments/assets/1ed881d6-f493-4f71-a5c3-0e45bed2a694" />
+
+
+
+
+
+
+
+
 Ferramenta para teste de carga de requisições, Dos Security Tool
 Faça download do script dexdos.c para o seu terminal linux, em seguida compile da seguinte forma:
 
